@@ -20,3 +20,5 @@ This is a **PHP** project made in **Codeigniter** framework.
 * This project is already set-up for windows
 
 * For mac users just replace port to 8080 or whatever port is showing in your apache server inside application > config > config.php --> base_url
+
+^ path for windows : http://localhost/phpmyadmin/iproud/index.php/pages/dashboard
