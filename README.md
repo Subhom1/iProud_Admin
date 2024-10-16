@@ -1,4 +1,4 @@
-# iProud_Admin
+# iProud Admin
 An admin panel for Coach-Trainee Health &amp; Fitness Management System in Organization.
 
 This is a **PHP** project made in **Codeigniter** framework.
